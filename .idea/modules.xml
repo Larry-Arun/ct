@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ct.iml" filepath="$PROJECT_DIR$/ct.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ct_analysis/ct_analysis.iml" filepath="$PROJECT_DIR$/ct_analysis/ct_analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ct_consumer/ct_consumer.iml" filepath="$PROJECT_DIR$/ct_consumer/ct_consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ct_producer/ct_producer.iml" filepath="$PROJECT_DIR$/ct_producer/ct_producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ct_web/ct_web.iml" filepath="$PROJECT_DIR$/ct_web/ct_web.iml" />
+    </modules>
+  </component>
+</project>
